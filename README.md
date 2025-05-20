@@ -82,7 +82,8 @@ demo.launch(share=True, server_port=int(os.environ['PORT1']))
 ```
 ### OUTPUT:
 
-![Screenshot (266)](https://github.com/user-attachments/assets/9506900a-4ad1-4e82-8fef-131f493f50f8)
+![Screenshot (266)](https://github.com/user-attachments/assets/8f2e9c9c-1b3c-47c8-a729-b1efee36a646)
+
 
 
 ### RESULT:
